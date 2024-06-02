@@ -1,9 +1,5 @@
 # Criptografia com NumPy
 
-## Introdução:
-
----
-
 ## Introdução
 
 Este é um programa em Python que demonstra um método simples de criptografia de palavras inseridas pelo usuário. Utilizando a biblioteca NumPy, o programa realiza operações matriciais para embaralhar as letras da palavra, oferecendo uma forma básica de proteger informações sensíveis.
