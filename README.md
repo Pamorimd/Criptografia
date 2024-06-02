@@ -1,8 +1,6 @@
 # Criptografia com NumPy
 
-## Introdução
-
-Claro, aqui está uma versão melhorada dessa parte:
+## Introdução:
 
 ---
 
